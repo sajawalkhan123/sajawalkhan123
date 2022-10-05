@@ -1,9 +1,9 @@
-# Hi there, I'm Azeem 👋
+# Hi there, I'm Sajawal Khan 👋
        
-## I'm a Developer, Teacher and Researcher!  
-- 🔭 I’m currently working as ML Engineer and Full Stack Developer.
-- 🌱 I’m currently learning Competitive-coding, MERN Stack, ML.
-- 🥅 2022 Goals: MERN, ML and DL.
+## I'm a Developer, Teacher and Freelancer!  
+- 🔭 I’m currently working as Full Stack Developer.
+- 🌱 I’m currently learning Competitive-coding, Laravel, Php, React.
+- 🥅 2022 Goals: Laravel, React and Vue.
    
 <br/>
 
@@ -55,9 +55,6 @@
         <img src="https://vegibit.com/wp-content/uploads/2018/05/expressjs.png" width="150" height="70">
     </td>
        <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" width="150" height="70">
-    </td>
-       <td align='center'>
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="150" height="70">
     </td>
 </tr>
@@ -71,12 +68,6 @@
     <td align='center'>
         <img src="https://buttercms.com/static/images/tech_banners/Flask.png" >
     </td>
-    <td align='center'>
-        <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
-    </td>
 </tr>
 </table>
 <br/>
@@ -84,39 +75,25 @@
 
 ## 🤝🏻 &nbsp;Connect with 
 <p align="center">
-<a href=""/></a>
-<a href="http://azeemaj101.herokuapp.com/" target="_blank"><img src="https://img.shields.io/badge/-M.Azeem.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/sunny-boy/"/></a>
+<a href="https://www.linkedin.com/in/sunny-boy/"><img src="https://img.shields.io/badge/-SajawalKhan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:sajawal1029@gmail.com"><img src="https://img.shields.io/badge/-sajawal1029@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/azeemaj101/" target="_blank"><img src="https://img.shields.io/badge/-@azeemaj101-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com" target="_blank"><img src=""/></a>
-<a href="https://twitter.com" target="_blank"><img src=""/></a>
-
+<a href="https://www.instagram.com/sajawal7913/"><img src="https://img.shields.io/badge/-@sajawal7913-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100028735404150" target="_blank"><img src="https://img.shields.io/badge/-@sajawalkhan-1877F2?style=flat&logo=Facebook&logoColor=white"/></a></a>
 </p>
 
 <br/>
 <br/>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=sajawalkhan123" alt="Sajawal Ahmad Khan" />
-    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/azeemaj101">
+    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/sajawalkhan123">
 </p>
 
 ## 🏆 Achievements
 <p align="center"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=sajawalkhan123" target="_blank" alt="sajawalkhan123" /></a> </p>
-
-## 🔎 Contribution Graph
-
-[![Azeem GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=azeemaj101&theme=xcode)](https://github.com/sajawalkhan123)
-[![Snake animation](https://github.com/Azeemaj101/sajawalkhan123/blob/main/github-contribution-grid-snake.svg)](https://github.com/sajawalkhan123)
-<!-- [![Snake animation](https://skyline.github.com/sajawalkhan123/2021)](https://github.com/sajawalkhan123) -->
-
 <h2><i>⚙️ GitHub Analytics</i></h2>
 
 <p align="center">
 <a href="https://github.com/sajawalkhan123">
-  <img height="180em" src=""/>
-  <img height="180em" src=""/>
 </a>
-  <img width="90%" src="" />
 </p>
 
