@@ -65,10 +65,4 @@
 
 ## 🏆 Achievements
 <p align="center"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=sajawalkhan123" target="_blank" alt="sajawalkhan123" /></a> </p>
-<h2><i>⚙️ GitHub Analytics</i></h2>
-
-<p align="center">
-<a href="https://github.com/sajawalkhan123">
-</a>
-</p>
 
