@@ -66,3 +66,18 @@
 ## 🏆 Achievements
 <p align="center"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=sajawalkhan123" target="_blank" alt="sajawalkhan123" /></a> </p>
 
+## 🔎 Contribution Graph
+
+[![Azeem GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sajawalkhan123"&theme=xcode)](https://github.com/sajawalkhan123")
+
+
+<h2><i>⚙️ GitHub Analytics</i></h2>
+
+<p align="center">
+<a href="https://github.com/azeemaj101">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sajawalkhan123&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sajawalkhan123&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=sajawalkhan123&show_icons=true&locale=en&layout=demo&theme=algolia&hide_border=true" />
+</p>
+
